@@ -1,0 +1,8 @@
+När använder man add respektive commit?
+Med "git add" kan man lägga filer i "Staging Area". Med en "git commit" kan du sedan uppdatera de önskvärda filerna som du har gjort add på.
+Vad är pull repektive push?
+Med git push kan du "pusha" filer du har committat upp till din repository på te.x GitHub. Med git pull kan du ladda ner filer du har tidigare pushat upp till din repository.
+När använder man log respektive status?
+Med git status kan man lista se om det finns något att "adda" eller "committa" i sin working directory. Med git log kan du se historiken i din working directory.
+Hur kan man formulera sig i sina commit-meddelanden?
+Man ska formulera sig i presens. Alltså som att man gör det just nu. Kort och konsekvent så det är enkelt för än själv och andra att förstå.
